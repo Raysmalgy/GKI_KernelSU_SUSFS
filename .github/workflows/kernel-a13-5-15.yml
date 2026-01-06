@@ -81,7 +81,7 @@ jobs:
         - sub_level: "153"
           os_patch_level: "2024-09"
         - sub_level: "167"
-          os_patch_level: "2024-11"
+          os_patch_level: "2024-10"
         - sub_level: "170"
           os_patch_level: "2025-01"
         - sub_level: "178"
